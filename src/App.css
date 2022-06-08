@@ -13,6 +13,16 @@
   }
 }
 
+/* div.App{
+  text-align: center;
+} */
+
+button{
+  margin-right: 10px;
+  padding: auto;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
